@@ -1,4 +1,4 @@
-# 🧠 ML in Python Series — Classification (Part 2)
+# 🧠 ML in Python Series — Classification
 
 This notebook is Part 2 of the *ML in Python Series*.  
 It introduces basic supervised classification using the **MNIST digit dataset**, and includes key visualization techniques.
